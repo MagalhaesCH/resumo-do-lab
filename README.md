@@ -18,3 +18,12 @@ Profissionais de TI: Equipes que gerenciam infraestrutura de TI, redes e seguran
 Pesquisadores e Cientistas de Dados: Usuários que realizam análises avançadas e machine learning, utilizando os serviços de inteligência artificial e big data do Azure.
 Organizações Governamentais e Educacionais: Instituições que necessitam de soluções robustas e seguras para gerenciar dados e operações.
 O Azure é projetado para ser flexível e atender às necessidades específicas de diferentes setores e tipos de usuários
+
+A computação em nuvem oferece uma série de benefícios que podem transformar a maneira como empresas e indivíduos utilizam a tecnologia. Aqui estão alguns dos principais:
+
+Escalabilidade: Permite ajustar recursos de acordo com a demanda, sem a necessidade de grandes investimentos em infraestrutura física.
+Economia de custos: Reduz gastos com hardware, manutenção e energia, já que os serviços são pagos conforme o uso.
+Acessibilidade: Facilita o acesso a dados e aplicativos de qualquer lugar, a qualquer hora, desde que haja conexão à internet.
+Segurança: Provedores de nuvem geralmente oferecem robustas medidas de segurança, incluindo backups automáticos e proteção contra ataques cibernéticos.
+Colaboração: Melhora a colaboração entre equipes, permitindo o compartilhamento e edição de documentos em tempo real.
+Atualizações automáticas: Mantém os sistemas e aplicativos sempre atualizados sem a necessidade de intervenção manual.
